@@ -1,8 +1,11 @@
 module fluentqa-go-tutorials
 
-go 1.20
+go 1.19
+
+require github.com/stretchr/testify v1.8.4
 
 require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-sql-driver/mysql v1.7.0 // indirect
 	github.com/golang-jwt/jwt/v4 v4.4.3 // indirect
 	github.com/google/uuid v1.3.0 // indirect
@@ -15,6 +18,7 @@ require (
 	github.com/jackc/pgx/v5 v5.2.0 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prest/prest v1.2.2 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
 	github.com/rest-go/rest v0.1.4 // indirect
