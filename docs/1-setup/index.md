@@ -1,5 +1,16 @@
 # Setup Golang Project
 
+<!-- TOC -->
+* [Setup Golang Project](#setup-golang-project)
+  * [SDK](#sdk)
+  * [IDE: Develop Your Golang Code](#ide-develop-your-golang-code)
+  * [Setup Project](#setup-project)
+  * [Run Golang Code](#run-golang-code)
+  * [Coding and Testing](#coding-and-testing)
+  * [How to Write Code and run tset](#how-to-write-code-and-run-tset)
+  * [Retrospective](#retrospective)
+<!-- TOC -->
+
 ## SDK
 
 - Download Golang SDK
