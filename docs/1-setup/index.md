@@ -45,7 +45,7 @@
 
 ---
 
-## How to Write Code and run tset
+## How to Write Code and run test
 
 - function
   - public/private 
