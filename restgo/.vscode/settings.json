@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sqlitedb",
+            "database": "${workspaceFolder:restgo}/my.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
