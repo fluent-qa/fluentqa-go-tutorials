@@ -1,11 +1,11 @@
 package main
 
 import (
-	"log/slog"
-	"simple-server/server"
+	"github.com/prest/prest/cmd"
+	"github.com/prest/prest/config"
 )
 
 func main() {
-	slog.Info("start Auth Server")
-	server.RunRestGoAuthSqliteServer(9090)
+	config.Load()
+	cmd.Execute()
 }
