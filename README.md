@@ -15,3 +15,8 @@ Golang Quick Tutorials for Software QA.
 ## Advanced
 
 - [DO-Di](https://github.com/samber/do.git)
+
+## References
+
+- https://github.com/PacktPublishing/Go-for-DevOps.git
+-  https://github.com/scylladb/gocqlx.git
