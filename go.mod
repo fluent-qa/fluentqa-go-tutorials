@@ -8,6 +8,7 @@ require (
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/gin-contrib/static v0.0.1
 	github.com/go-playground/validator/v10 v10.16.0
+	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
 	github.com/gookit/goutil v0.6.15
 	github.com/spf13/cobra v1.8.0
